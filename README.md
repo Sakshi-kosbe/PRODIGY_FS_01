@@ -1,4 +1,3 @@
-
 # 🔐 Trustify – Secure User Authentication System
 
 Trustify is a secure and scalable user authentication system designed to provide safe user registration, login, and access control using industry-standard security practices.
@@ -107,15 +106,19 @@ Git
 Steps
 
 # Clone the repository
-git clone https://github.com/your-username/trustify.git
+
+git clone https://github.com/Sakshi-kosbe/PRODIGY_FS_01.git
 
 # Navigate to project directory
+
 cd trustify
 
 # Install dependencies
+
 npm install
 
 # Start the server
+
 npm start
 
 
@@ -124,18 +127,31 @@ npm start
 ## 📁 Project Structure (Example)
 
 trustify/
+
 │── backend/
+
 │   ├── controllers/
+
 │   ├── routes/
+
 │   ├── models/
+
 │   ├── middleware/
+
 │   └── server.js
+
 │
+
 │── frontend/
+
 │   ├── components/
+
 │   ├── pages/
+
 │   └── App.js
+
 │
+
 └── README.md
 
 
@@ -190,6 +206,7 @@ Admin dashboard
 ## 🧑‍💻 Author
 
 Project Name: Trustify
+
 Developed by: Sakshi Kosbe 
 
 
